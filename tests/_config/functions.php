@@ -24,7 +24,7 @@ if (!function_exists('loadFolders')) {
     function loadFolders()
     {
         $folders = [
-            'logs',
+            'stream',
         ];
 
         foreach ($folders as $folder) {
