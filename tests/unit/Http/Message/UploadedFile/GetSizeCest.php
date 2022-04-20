@@ -11,7 +11,7 @@
 
 declare(strict_types=1);
 
-namespace Phalcon\Tests\Unit\Http\Message\UploadedFile;
+namespace Phalcon\Proxy\Psr7\Tests\Unit\Http\Message\UploadedFile;
 
 use Phalcon\Http\Message\UploadedFile;
 use UnitTester;
